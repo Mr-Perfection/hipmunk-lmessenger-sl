@@ -1,0 +1,19 @@
+{
+  "name": "hipmunk-lmessenger-sl",
+  "version": "1.0.0",
+  "description": "Hipmunk coding challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-Perfection/hipmunk-lmessenger-sl.git"
+  },
+  "author": "Stephen Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mr-Perfection/hipmunk-lmessenger-sl/issues"
+  },
+  "homepage": "https://github.com/Mr-Perfection/hipmunk-lmessenger-sl#readme"
+}
