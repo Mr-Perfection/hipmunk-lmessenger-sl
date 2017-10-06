@@ -1,6 +1,8 @@
 # hipmunk-lmessenger-sl
 https://github.com/Mr-Perfection/hipmunk-lmessenger-sl
 
+Before we begin, make sure you have `keys.json` in this repo.
+
 ### Setup
 
 ```bash
