@@ -13,10 +13,15 @@ $ node server.js
 ```
 
 ### Tools and APIs
+
 [darksky](https://darksky.net/dev/docs/forecast)
+
 [geocoder for node js](https://www.npmjs.com/package/node-geocoder)
+
 [hipmunk API doc](http://hipmunk.github.io/hipproblems/lessenger/)
+
 [node fetch](https://www.npmjs.com/package/node-fetch)
+
 [cors](https://github.com/expressjs/cors)
  
 ### Enjoy!
