@@ -19,7 +19,7 @@ Then, go to http://hipmunk.github.io/hipproblems/lessenger/
 
 [geocoder for node js](https://www.npmjs.com/package/node-geocoder)
 
-[hipmunk API doc](http://hipmunk.github.io/hipproblems/lessenger/)
+[hipmunk API doc](https://github.com/Hipmunk/hipproblems/tree/master/lessenger)
 
 [node fetch](https://www.npmjs.com/package/node-fetch)
 
