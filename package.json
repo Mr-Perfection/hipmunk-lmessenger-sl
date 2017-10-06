@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mr-Perfection/hipmunk-lmessenger-sl/issues"
   },
-  "homepage": "https://github.com/Mr-Perfection/hipmunk-lmessenger-sl#readme"
+  "homepage": "https://github.com/Mr-Perfection/hipmunk-lmessenger-sl#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
 }
