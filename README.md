@@ -1,5 +1,5 @@
 # hipmunk-lmessenger-sl
-https://github.com/Mr-Perfection/hip-lmessenger
+https://github.com/Mr-Perfection/hipmunk-lmessenger-sl
 
 ### Setup
 
