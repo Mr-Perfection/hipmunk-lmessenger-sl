@@ -1,5 +1,4 @@
 # hipmunk-lmessenger-sl
-https://github.com/Mr-Perfection/hipmunk-lmessenger-sl
 
 Before we begin, make sure you have `keys.json` in this repo.
 
@@ -13,7 +12,7 @@ $ npm install
 ```bash
 $ node server.js
 ```
-
+Then, go to http://hipmunk.github.io/hipproblems/lessenger/
 ### Tools and APIs
 
 [darksky](https://darksky.net/dev/docs/forecast)
