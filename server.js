@@ -11,7 +11,6 @@ var fetch         = require('node-fetch');
 var app           = express();                 // define our app using express
 var upload        = multer();
 var KEYS          = require('./keys.json');
-// whitelist the CORS's origin (in this case, only this website)
 var NodeGeocoder  = require('node-geocoder');
 
 // cors setup 
